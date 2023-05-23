@@ -1,0 +1,25 @@
+        *************** Beginning of data ************************************* 
+0001.00      A          R COUPON                                                
+0002.00      A                                 10 26'COUPON'                    
+0002.02      A                                 12 18'------------------------'  
+0004.00      A          R COUPON10                                              
+0005.00      A                                      SPACEB(001)                 
+0008.00      A            CPID      R             35REFFLD(RCPCOMP/CPID JBPD10/ 
+0008.01      A                                    18'COUPON ID:'                
+0010.00      A                                      SPACEA(001)                 
+0013.00      A            CPNAME    R             35REFFLD(RCPCOMP/CPNAME +     
+0014.00      A                                                JBPD10/CPCOMPF)   
+0014.01      A                                    18'COUPON NAME:'              
+0014.02      A                                      SPACEA(001)                 
+0018.03      A            CPSDATE   R             35REFFLD(RCPCOMP/CPSDATE +    
+0018.04      A                                                JBPD10/CPCOMPF)   
+0018.05      A                                    18'STATR DATE:'               
+0018.06      A                                      SPACEA(001)     
+0019.02      A            CPEDATE   R             35REFFLD(RCPCOMP/CPEDATE +    
+0019.03      A                                                JBPD10/CPCOMPF)   
+0019.04      A                                    18'END DATE:'                 
+0020.00      A                                      SPACEA(001)                 
+0021.00      A            CPSUM     R             35REFFLD(RCPCOMP/CPSUM +      
+0022.00      A                                                JBPD10/CPCOMPF)   
+0023.00      A                                    18'SUM :'                     
+        ****************** End of data **************************************** 
