@@ -1,0 +1,9 @@
+        *************** Beginning of data ************************************* 
+0001.00 FPRT1      O    E             PRINTER                                   
+0002.00 FCPCOMPF   IF   E             DISK                                      
+0003.00 C*                                                                      
+0004.00 C                   READ      RCPCOMP                              9999 
+0006.00 C                   WRITE     COUPON                                    
+0006.01 C                   WRITE     COUPON10                                  
+0007.00 C                   SETON                                        LR     
+        ****************** End of data **************************************** 
